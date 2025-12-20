@@ -1,5 +1,4 @@
 # 👨🏻‍💻 About Me:
-Estou trabalhando atualmente em um aplicativo iOS de moda
 
 
 # 🌐 Socials:
