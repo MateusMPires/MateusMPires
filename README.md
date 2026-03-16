@@ -28,6 +28,15 @@
 
 <br>
 
+<div align="left">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusMPires&hide=html&layout=compact&theme=dark" alt="Linguagens Mais Usadas" />
+  </a>
+
+</div>
+
+<br>
+
 <p align="left">
   💌 <strong>Vamos nos conectar?</strong> ⤵️
 </p>
