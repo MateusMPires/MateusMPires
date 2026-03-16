@@ -1,17 +1,42 @@
-# 👨🏻‍💻 About Me:
+# Oi, eu sou o Mateus Martins 👋
 
+### iOS Software Engineer & Indie Developer | Lab do Mateus
 
-# 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/matias.piress) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mateus Martins) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Mateus Martins Pires) 
+Sou Bacharel em Ciência da Computação e graduado pela **Apple Developer Academy**. Como um desenvolvedor focado no ecossistema Apple, construo produtos nativos que combinam design *pixel-perfect*, arquiteturas *offline-first* seguras e alta performance.
 
-# 💻 Tech Stack:
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MateusMPires&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MateusMPires&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusMPires&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+Divido meu foco técnico entre a ideação e lançamento de produtos independentes e o desenvolvimento de soluções B2B corporativas.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MateusMPires&limit=5&theme=dark&combine_all_yearly_contributions=true)
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🚀 Produtos & Destaques em Produção
+
+* **[Ecos - Smart Journal](Cole-o-link-da-AppStore-aqui):** Aplicativo nativo em SwiftUI focado em privacidade mental. Arquitetura 100% local com SwiftData, proteção biométrica via FaceID e reengajamento inteligente com WidgetKit.
+* **Portfólio Nativo (7 Apps Publicados):** Domínio de todo o ciclo de vida do software, desde a ideação via *Challenge Based Learning* até a publicação, aprovação rigorosa e App Store Optimization (ASO).
+* **Soluções B2B para Varejo:** Arquitetura e desenvolvimento de um Ponto de Venda (PDV) nativo para iPadOS, com infraestrutura *offline-first* e integração de hardware TCP/IP de baixo nível (ESC/POS).
+
+---
+
+### 🛠 Arsenal Técnico
+
+* **Ecossistema Apple:** Swift, SwiftUI, UIKit, Concurrency (Async/Await), watchOS, iPadOS.
+* **Arquitetura & Clean Code:** MVVM, SOLID, Design Patterns, Injeção de Dependências.
+* **Dados & Persistência:** SwiftData, CoreData, SQL, Firebase, CloudKit.
+* **Acessibilidade & UI:** ViewCode, Auto Layout, Dynamic Type, VoiceOver.
+
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/SwiftUI-007AFF?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+</div>
+
+---
+
+### 🤝 Vamos nos conectar?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/Mateus Martins)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/matias.piress)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@Mateus Martins Pires)
