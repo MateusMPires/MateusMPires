@@ -12,7 +12,7 @@
 
 ### 🚀 Produtos & Destaques em Produção
 
-* **[Ecos - Smart Journal](#https://apps.apple.com/us/app/ecos-sua-segunda-mente/id6754569860):** Aplicativo nativo em SwiftUI focado em privacidade mental. Arquitetura 100% local com SwiftData, proteção biométrica via FaceID e reengajamento inteligente com WidgetKit.
+* **[Ecos - Smart Journal](https://apps.apple.com/us/app/ecos-sua-segunda-mente/id6754569860):** Aplicativo nativo em SwiftUI focado em privacidade mental. Arquitetura 100% local com SwiftData, proteção biométrica via FaceID e reengajamento inteligente com WidgetKit.
 * **Portfólio Nativo (7 Apps Publicados):** Domínio de todo o ciclo de vida do software, desde a ideação via *Challenge Based Learning* até a publicação, aprovação rigorosa e App Store Optimization (ASO).
 * **Soluções B2B para Varejo:** Arquitetura e desenvolvimento de um Ponto de Venda (PDV) nativo para iPadOS, com infraestrutura *offline-first* e integração de hardware TCP/IP de baixo nível (ESC/POS).
 
