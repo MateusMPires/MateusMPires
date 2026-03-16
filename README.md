@@ -1,26 +1,47 @@
-## 💜 Olá, meu nome é Mateus Martins!
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-Sou Engenheiro de Software iOS, desenvolvedor indie no "Lab do Mateus" e graduado pela Apple Developer Academy. Foco na criação de produtos nativos no ecossistema Apple, unindo design *pixel-perfect*, arquiteturas *offline-first* seguras e alta performance.
+# Oi, eu sou o Mateus Martins 👋
+### iOS Software Engineer & Indie Developer 
 
-🔭 Atualmente focado na evolução do **Ecos - Smart Journal** (aplicativo nativo em SwiftUI com persistência local e proteção biométrica) e na arquitetura ponta a ponta de um **Ponto de Venda (PDV) nativo B2B** para iPadOS. Tenho o orgulho de gerenciar o ciclo de vida completo de 7 aplicativos já publicados na App Store.
-
-💬 Sinta-se à vontade para me mandar uma mensagem no [LinkedIn](https://linkedin.com/in/Mateus Martins) ou me chamar no [Instagram](https://instagram.com/matias.piress) para conversarmos sobre desenvolvimento iOS, metodologias ágeis, tecnologia ou novas oportunidades!
-
----
-
-## 🚀 Minhas Skills
-
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" alt="Swift"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/apple/apple.png" alt="Apple Ecosystem"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="Firebase"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/78df843247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="GitHub"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/figma/figma.png" alt="Figma"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"/></code>
+<p align="left"> 
+  Sou Bacharel em Ciência da Computação e graduado pela <strong>Apple Developer Academy</strong>. Como um desenvolvedor focado no ecossistema Apple, construo produtos nativos que combinam design <em>pixel-perfect</em>, arquiteturas <em>offline-first</em> seguras e alta performance.<br><br>
+  Atualmente, divido meu foco técnico entre a ideação e lançamento de produtos independentes e o desenvolvimento de soluções B2B corporativas.
+</p>
 
 ---
 
-## ⭐ GitHub Stats
+### 🚀 Produtos & Destaques em Produção
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MateusMPires&theme=dark&show_icons=true)
+* **[Ecos - Smart Journal](#):** Aplicativo nativo em SwiftUI focado em privacidade mental. Arquitetura 100% local com SwiftData, proteção biométrica via FaceID e reengajamento inteligente com WidgetKit.
+* **Portfólio Nativo (7 Apps Publicados):** Domínio de todo o ciclo de vida do software, desde a ideação via *Challenge Based Learning* até a publicação, aprovação rigorosa e App Store Optimization (ASO).
+* **Soluções B2B para Varejo:** Arquitetura e desenvolvimento de um Ponto de Venda (PDV) nativo para iPadOS, com infraestrutura *offline-first* e integração de hardware TCP/IP de baixo nível (ESC/POS).
+
+---
+
+<p align="left">
+  🦄 <strong>Linguagens & Ecossistema:</strong> Swift, SwiftUI, UIKit, Concurrency (Async/Await), watchOS, iPadOS.
+</p>
+
+<p align="left">
+  💼 <strong>Arquitetura & Ferramentas:</strong> MVVM, SOLID, Design Patterns, SwiftData, CoreData, SQL, Firebase, CloudKit, Git, Figma.
+</p>
+
+<br>
+
+<p align="left">
+  💌 <strong>Vamos nos conectar?</strong> ⤵️
+</p>
+
+<p align="left">
+  <a href="mailto:mateusmp.df@gmail.com" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  
+  <a href="https://linkedin.com/in/Mateus Martins" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
+  
+  <a href="https://www.instagram.com/labdomateusss/" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  
+  <a href="https://medium.com/@Mateus Martins Pires" title="Medium">
+  <img src="https://img.shields.io/badge/-Medium-12100E?style=flat-square&labelColor=12100E&logo=medium&logoColor=white" alt="Medium"/></a>
+</p>
