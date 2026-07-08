@@ -1,56 +1,64 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<h1 align="center">Hi, I'm Mateus Martins 👋</h1>
 
-# Oi, eu sou o Mateus Martins 👋
-### iOS Software Engineer & Indie Developer 
+<p align="center">
+  <b>AI Software Engineer · LLMs & Full-Stack · iOS</b><br>
+  I build AI-powered products end-to-end — from RAG pipelines and LLM integrations to apps people actually use.
+</p>
 
-<p align="left"> 
-  Sou Bacharel em Ciência da Computação e graduado pela <strong>Apple Developer Academy</strong>. Como um desenvolvedor focado no ecossistema Apple, construo produtos nativos que combinam design <em>pixel-perfect</em>, arquiteturas <em>offline-first</em> seguras e alta performance.<br><br>
-  Atualmente, divido meu foco técnico entre a ideação e lançamento de produtos independentes e o desenvolvimento de soluções B2B corporativas.
+<p align="center">
+  <a href="https://linkedin.com/in/mateusmpiress"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:mateusmp.df@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <img src="https://img.shields.io/badge/App%20Store-7%20apps%20published-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="App Store">
 </p>
 
 ---
 
-### 🚀 Produtos & Destaques em Produção
+## 🚀 About me
 
-* **[Ecos - Smart Journal](https://apps.apple.com/us/app/ecos-sua-segunda-mente/id6754569860):** Aplicativo nativo em SwiftUI focado em privacidade mental. Arquitetura 100% local com SwiftData, proteção biométrica via FaceID e reengajamento inteligente com WidgetKit.
-* **Portfólio Nativo (7 Apps Publicados):** Domínio de todo o ciclo de vida do software, desde a ideação via *Challenge Based Learning* até a publicação, aprovação rigorosa e App Store Optimization (ASO).
-* **Soluções B2B para Varejo:** Arquitetura e desenvolvimento de um Ponto de Venda (PDV) nativo para iPadOS, com infraestrutura *offline-first* e integração de hardware TCP/IP de baixo nível (ESC/POS).
+- 🎓 **B.Sc. in Computer Science** (Universidade Católica de Brasília) & **Apple Developer Academy graduate**
+- 🤖 Specializing in **applied AI & LLMs**: built an end-to-end **RAG system** — chunking, OpenAI embeddings, vector search with **pgvector**, and **evals** to measure retrieval quality
+- 📱 **7 native apps published on the App Store**, owning the full product lifecycle: ideation → architecture → ASO → deployment
+- 🧩 Full-stack experience shipping **B2B platforms** with React, TypeScript, and Supabase (PostgreSQL + RLS)
+- 🗣️ **Advanced English (Cambridge C1)** · Portuguese (native) · Based in Brasília, Brazil 🇧🇷
+
+## 🧠 What sets me apart
+
+**I don't just call LLM APIs — I engineer AI systems.** My RAG project applies spec-driven development, a coding harness (CLAUDE.md), and automated evals to compare chunking strategies and systematically measure retrieval quality. Data comes from the system; language comes from the LLM.
+
+**I ship real products, not demos.** From *Ecos – Smart Journal* (100+ downloads, 15 five-star reviews, first-submission App Store approval) to *LocAlert*, a real-time disaster tracker localized in 6 languages and presented to Brazil's Civil Defense.
+
+**I lead as well as I build.** Product Owner & Scrum Master across multiple squads at the Apple Developer Academy, shipping apps in cycles under 3 months and pitching in English and Portuguese to evaluation panels.
+
+## 🔭 Featured work
+
+| Project | What it is | Stack |
+|---|---|---|
+| **RAG over Personal Notes** | Full retrieval-augmented generation pipeline: ingestion, chunking, embeddings, semantic search + evals for retrieval quality | Python · pgvector/Supabase · OpenAI |
+| **Ecos – Smart Journal** | Native journaling app with biometric privacy (FaceID), widgets, and cloud sync — 100+ downloads, 15 ⭐⭐⭐⭐⭐ reviews | SwiftUI · SwiftData · Supabase |
+| **LocAlert – Disaster Tracker** | Real-time disaster tracking, localized in 6 languages, with ChatGPT API integration — presented to Civil Defense | Swift · MapKit · CloudKit · OpenAI |
+| **Kairon internal platform** | Web + mobile management platform: CRM with automated lead notifications, financial control, task tracking, RLS-based access | React · TypeScript · Supabase |
+
+## 🛠️ Tech I work with
+
+**AI & LLMs** — RAG · Embeddings · Chunking · Vector Search (pgvector) · Evals · Tool Calling · Prompt Engineering · Spec-Driven Development · OpenAI API
+
+**Languages** — Python · Swift · TypeScript · JavaScript · SQL
+
+**Mobile (Apple)** — SwiftUI · UIKit · SwiftData · CloudKit · WidgetKit · Combine · async/await · React Native
+
+**Web & Backend** — React · Node.js · Supabase (PostgreSQL, RLS) · Firebase · RESTful APIs
+
+**Practices** — MVVM · SOLID · Clean Code · Unit Testing · Evals · CI/CD (Xcode Cloud, Jenkins) · Git/GitHub
+
+## 📊 GitHub stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MateusMPires&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" height="160">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusMPires&layout=compact&hide_border=true" alt="Top languages" height="160">
+</p>
 
 ---
 
-<p align="left">
-  🦄 <strong>Linguagens & Ecossistema:</strong> Swift, SwiftUI, UIKit, Concurrency (Async/Await), watchOS, iPadOS.
-</p>
-
-<p align="left">
-  💼 <strong>Arquitetura & Ferramentas:</strong> MVVM, SOLID, Design Patterns, SwiftData, CoreData, SQL, Firebase, CloudKit, Git, Figma.
-</p>
-
-<br>
-
-<div align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusMPires&hide=html&layout=compact&theme=dark" alt="Linguagens Mais Usadas" />
-  </a>
-
-</div>
-
-<br>
-
-<p align="left">
-  💌 <strong>Vamos nos conectar?</strong> ⤵️
-</p>
-
-<p align="left">
-  <a href="mailto:mateusmp.df@gmail.com" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  
-  <a href="https://linkedin.com/in/Mateus Martins" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
-  
-  <a href="https://www.instagram.com/labdomateusss/" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  
-  <a href="https://medium.com/@Mateus Martins Pires" title="Medium">
-  <img src="https://img.shields.io/badge/-Medium-12100E?style=flat-square&labelColor=12100E&logo=medium&logoColor=white" alt="Medium"/></a>
+<p align="center">
+  💬 Open to opportunities in <b>AI Engineering, iOS, and Full-Stack</b> — let's talk: <a href="mailto:mateusmp.df@gmail.com">mateusmp.df@gmail.com</a>
 </p>
