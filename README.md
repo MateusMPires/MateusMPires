@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/mateusmpiress"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:mateusmp.df@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://apps.apple.com/br/app/ecos-insights-reflex%C3%B5es/id6754569860"> <img src="https://img.shields.io/badge/App%20Store-7%20apps%20published-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="App Store">,/a>
+  <a href="https://apps.apple.com/br/app/ecos-insights-reflex%C3%B5es/id6754569860"> <img src="https://img.shields.io/badge/App%20Store-7%20apps%20published-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="App Store"></a>
 </p>
 
 ---
